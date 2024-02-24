@@ -8,7 +8,7 @@ import advertizement from "./advertizement.jpg";
 import bdFlag from "./bdFlag.webp";
 import hasPrime from "./hasPrime.png";
 import emptyCart from "./emptyCart.png";
-import IndFlag from "./IndFLag.png";
+import flag from "./flag.png";
 import logoDark from "./logoDark.png";
 
 export {
@@ -22,6 +22,6 @@ export {
   bdFlag,
   hasPrime,
   emptyCart,
-  IndFlag,
+  flag,
   logoDark,
 };
